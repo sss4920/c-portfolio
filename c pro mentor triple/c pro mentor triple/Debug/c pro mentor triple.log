@@ -1,0 +1,8 @@
+﻿  소스.c
+c:\users\sss49\source\repos\c pro mentor triple\c pro mentor triple\소스.c(8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\sss49\source\repos\c pro mentor triple\c pro mentor triple\소스.c(7): warning C4101: 'case2' :참조되지 않은 지역 변수입니다.
+c:\users\sss49\source\repos\c pro mentor triple\c pro mentor triple\소스.c(7): warning C4101: 'case1' :참조되지 않은 지역 변수입니다.
+c:\users\sss49\source\repos\c pro mentor triple\c pro mentor triple\소스.c(9): warning C4700: 초기화되지 않은 'sum1' 지역 변수를 사용했습니다.
+c:\users\sss49\source\repos\c pro mentor triple\c pro mentor triple\소스.c(9): warning C4700: 초기화되지 않은 'sum2' 지역 변수를 사용했습니다.
+  c pro mentor triple.vcxproj -> C:\Users\sss49\source\repos\c pro mentor triple\Debug\c pro mentor triple.exe
