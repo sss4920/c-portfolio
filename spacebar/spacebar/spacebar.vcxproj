@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{CA2981B4-649C-4563-B6DF-E29AD74DEB7E}</ProjectGuid>
+    <ProjectGuid>{CEDC3499-81D5-4EC7-9D8E-C0A32E27591B}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>ik</RootNamespace>
+    <RootNamespace>spacebar</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="소스.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
